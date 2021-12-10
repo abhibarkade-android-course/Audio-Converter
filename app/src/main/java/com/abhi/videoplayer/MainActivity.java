@@ -29,5 +29,7 @@ public class MainActivity extends AppCompatActivity {
         videoView.setMediaController(controller);
 
         videoView.start();
+
+        // CHecking for Github
     }
 }
